@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489311633364",
+    "project_id": "spendee-e4c2e",
+    "storage_bucket": "spendee-e4c2e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489311633364:android:92136dd9f65463975ba041",
+        "android_client_info": {
+          "package_name": "com.example.spendee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWB3-M7-ITccwUEBwE4mfDUNNB8eloeOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
