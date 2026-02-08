@@ -1,16 +1,38 @@
-# spendee
+Spendee - Personal Finance Manager
+Spendee is a powerful, sleek, and user-friendly expense tracking application built with Flutter. It help users take control of their finances with ease, providing real-time insights into spending habits, budget management, and historical data analysis.
 
-A new Flutter project.
+✨ Key Features
+🔐 Secure Authentication:
+Email/Password login.
+One-tap Google Sign-In for seamless onboarding.
 
-## Getting Started
+📊 Real-time Dashboard:
+Comprehensive overview of monthly spending vs. budget.
+Interactive charts and visual summaries.
 
-This project is a starting point for a Flutter application.
+💸 Expense Management:
+Quickly add and categorize expenses.
+Detailed expense history with easy filtering.
 
-A few resources to get you started if this is your first Flutter project:
+📅 Monthly Budgeting:
+Set monthly limits to keep your spending in check.
+Intelligent tracking to warn when you're nearing your limit.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📜 Historical Data:
+Access past months' data to see your financial progress.
+Generate and export professional PDF reports of your expenses.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💎 Premium Experience:
+Exclusive features available through monthly or yearly subscriptions.
+Integrated with Razorpay for secure and quick payments.
+
+🌓 Dynamic Theming:
+Fully responsive Light and Dark modes.
+Premium design aesthetics for a superior user experience.
+
+🛠️ Tech Stack
+Framework: Flutter
+Backend: Firebase (Authentication, Firestore)
+State Management: Provider
+Payment Gateway: Razorpay
+PDF Generation: pdf
